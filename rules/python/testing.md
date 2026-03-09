@@ -1,7 +1,5 @@
 ---
-paths:
-  - "**/*.py"
-  - "**/*.pyi"
+paths: **/*.py,**/*.pyi
 ---
 # Python Testing
 

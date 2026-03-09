@@ -1,7 +1,5 @@
 ---
-paths:
-  - "**/*.swift"
-  - "**/Package.swift"
+paths: **/*.swift,**/Package.swift
 ---
 # Swift Patterns
 
